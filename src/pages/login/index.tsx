@@ -7,4 +7,4 @@ const Login = () : JSX.Element => {
     )
 }
 
-export default Login;
+export default Login
